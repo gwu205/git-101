@@ -1,0 +1,18 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+#logo {
+	width: 80px;
+	border-radius: 50%;
+}
+
+#container {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
